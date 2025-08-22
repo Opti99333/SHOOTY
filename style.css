@@ -1417,7 +1417,7 @@ padding: 40px 20px;
         max-width: 574px;
         border-width: 6px;
         box-shadow: 9px 9px 0 var(--wood-dark);
-        margin-top: 333px;
+        margin: auto 0;
   }
 
   .hero__speech {
